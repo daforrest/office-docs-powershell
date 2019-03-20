@@ -164,11 +164,9 @@ To specify a mailbox or distribution group, you can use any value that uniquely 
 
 - Name
 
-- Distinguished name (DN)
+- Alias
 
 - Email address
-
-- GUID
 
 To enter multiple values, use the following syntax: \<value1\>,\<value2\>,...\<valueX\>. If the values contain spaces or otherwise require quotation marks, use the following syntax: "\<value1\>","\<value2\>",..."\<valueX\>".
 
@@ -544,17 +542,13 @@ The RemoveExchangeLocation parameter specifies the mailboxes to remove from the 
 
 - A mailbox
 
-- A distribution group or mail-enabled security group
-
-To specify a mailbox or distribution group, you can use any value that uniquely identifies it. For example:
+To specify a mailbox you can use any value that uniquely identifies it. For example:
 
 - Name
 
-- Distinguished name (DN)
+- Alias
 
 - Email address
-
-- GUID
 
 To enter multiple values, use the following syntax: \<value1\>,\<value2\>,...\<valueX\>. If the values contain spaces or otherwise require quotation marks, use the following syntax: "\<value1\>","\<value2\>",..."\<valueX\>".
 
